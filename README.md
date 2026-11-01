@@ -48,6 +48,8 @@ I love hiking and exploring new trails during the weekends!
   <img alt="github-snake" src="https://raw.githubusercontent.com/kejhy93/kejhy93/output/github-contribution-grid-snake.svg" />
 </picture>
 
+![](./profile-3d-contrib/profile-gitblock.svg)
+
 ## 🗂️ Highlight Projects
 
 - [Project 1](https://github.com/kejhy93/project1): Description of project 1.
